@@ -5,7 +5,7 @@ Mapping earthquake data with leaflet and D3 API calls, with dynamic formatting b
 
 ## Work Credit/Citations
 - I worked with fellow student Emilia Sanchez and adapted her code for the bubble formatting portion of the project.
-- Implementing the Legend: ['Adding Leaflet legend?'](https://gis.stackexchange.com/questions/133630/adding-leaflet-legend) - Asked by Richard Butler Feb 9, 2015, Answered by Richard Butler Feb 9, 2015
+- Implementing the Legend: ['Adding Leaflet legend?'](https://gis.stackexchange.com/questions/133630/adding-leaflet-legend) - Asked by Richard Butler Feb 9, 2015, Answered by Richard Butler Feb 10, 2015 -  GIS StackExchange
 - Parts of the code used in daily activities were adapted into this project as well.
 
 ## Data Sources/Citations
